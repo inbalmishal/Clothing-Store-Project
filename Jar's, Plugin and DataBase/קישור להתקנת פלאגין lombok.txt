@@ -1,0 +1,2 @@
+קישור להתקנת פלאגין loombok:
+https://plugins.jetbrains.com/plugin/6317-lombok
